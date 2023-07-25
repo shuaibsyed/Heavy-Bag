@@ -1,2 +1,2 @@
 # Heavy-Bag
-This project was to create a set which allows for duplicates unlike a normal set using any data structure
+The goal of this project was to design a set that accommodates duplicates, unlike a regular set, by utilizing a custom data structure.
